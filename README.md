@@ -207,7 +207,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Your Name
 - GitHub: [@anu-desai](https://github.com/anu-desai)
-- LinkedIn:(https://www.linkedin.com/in/anu-desai-40b347226/)
+- LinkedIn:[linkedIn link](https://www.linkedin.com/in/anu-desai-40b347226/)
 - Email: anudesai98@gmail.com
 
 ## 🙏 Acknowledgments
